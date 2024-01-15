@@ -1,4 +1,4 @@
-# my-project
+# Language Portal
 
 ## Project setup
 ```
